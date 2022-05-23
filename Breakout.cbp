@@ -37,6 +37,10 @@
 		</Linker>
 		<Unit filename="Ball.cpp" />
 		<Unit filename="Ball.h" />
+		<Unit filename="Brick.cpp" />
+		<Unit filename="Brick.h" />
+		<Unit filename="Bumper.cpp" />
+		<Unit filename="Bumper.h" />
 		<Unit filename="Vec2D.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
